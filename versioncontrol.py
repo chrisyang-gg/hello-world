@@ -18,7 +18,7 @@ while True:
     except:
         print("Invalid input try again...")
 
-    if int_height >= 509: # in what units?
+    if int_height >= 509:
         print("Wow", name, "your pretty tall!")
     else:
         print("Yikes...", name, "your REALLY short")
